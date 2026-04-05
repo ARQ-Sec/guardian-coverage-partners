@@ -1,0 +1,3 @@
+# coverage campaign entry
+# rule_key: guardian.github-fine-grained-pat
+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
